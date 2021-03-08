@@ -1,0 +1,6 @@
+[submodule "pm-gui"]
+	path = pm-gui
+	url = https://github.com/ProgrammableMatterProject/pm-gui
+[submodule "pm-firmware"]
+	path = pm-firmware
+	url = https://github.com/ProgrammableMatterProject/pm-firmware
