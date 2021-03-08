@@ -4,3 +4,6 @@
 [submodule "pm-firmware"]
 	path = pm-firmware
 	url = https://github.com/ProgrammableMatterProject/pm-firmware
+[submodule "pm-cli"]
+	path = pm-cli
+	url = https://github.com/ProgrammableMatterProject/pm-cli
