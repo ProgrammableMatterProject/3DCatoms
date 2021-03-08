@@ -1,12 +1,16 @@
 # 3DCatoms
 
-## pm-firmware
+## pm-cli
 
-Firmware running on the TC110 module from [Cubeworks](cubeworks.io) and then modified for programmable matter.
+Provides simple software solutions to send commands and read a feedback from the M³ with a gateway hardware and a base station.
 
 ## pm-gui
 
 Application interfacing with a base station for Tstack communication and data logging based on [Cubeworks](cubeworks.io) TCGUI v3.3.
+
+## pm-firmware
+
+Firmware running on the TC110 module from [Cubeworks](cubeworks.io) and then modified for programmable matter.
 
 ---
 
