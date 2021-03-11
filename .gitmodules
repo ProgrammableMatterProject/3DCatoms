@@ -7,3 +7,6 @@
 [submodule "pm-cli"]
 	path = pm-cli
 	url = https://github.com/ProgrammableMatterProject/pm-cli
+[submodule "m3-python"]
+	path = m3-python
+	url = https://github.com/mbus/m3-python
