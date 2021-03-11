@@ -1,5 +1,9 @@
 # 3DCatoms
 
+## m3-python
+
+Utilities and software libraries for the [M3 ecosystem](http://cubeworks.us/) and interfacing with the [ICE board](http://mbus.io/ice.html).
+
 ## pm-cli
 
 Provides simple software solutions to send commands and read a feedback from the M³ with a gateway hardware and a base station.
