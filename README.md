@@ -30,7 +30,7 @@ Below are documentation and repositories where to find packages and boards used 
 Driver to install on Windows to be able to serial connect to the CubiSens Gateway :
 - [CP210x USB to UART Bridge VCP Drivers - Silicon Labs](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
-![M3 Architecture](https://cloud.femto-st.fr/nextcloud/index.php/apps/files_sharing/publicpreview/mSComLgxayCQq84?x=2554&y=979&a=true&file=M3%2520Architecture.png&scalingup=0)
+![M3 Architecture](https://services-stgi.pu-pm.univ-fcomte.fr/visiblesim/images/wikis/M3%20Architecture.png)
 *Comprehensive diagram of the whole setup*
 
 ### :question: F.A.Q.
